@@ -12,6 +12,7 @@ const Stuff = () => (
     <Router>
         <Switch>
             <Route exact path = '/'>
+                <p>Please select a question using the dropdown</p>
             </Route>
             <Route exact path = '/multiplier'>
                 <Multiplier x={ 5 } y={ 7 }/>
@@ -35,6 +36,7 @@ const Stuff = () => (
             <Route path = '/minimum-length/:length' render = { ({match}) => (
                 <MinimumLength length = {match.params.length} />
             ) } />
+            <p>test</p>
             <Route component = {FourOhFour} />
         </Switch>
         <Footer />
