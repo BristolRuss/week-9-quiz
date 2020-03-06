@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/week-9-quiz/static/css/main.ae5d4301.chunk.css",
+    "main.js": "/week-9-quiz/static/js/main.0a246796.chunk.js",
+    "main.js.map": "/week-9-quiz/static/js/main.0a246796.chunk.js.map",
+    "runtime-main.js": "/week-9-quiz/static/js/runtime-main.3bf16120.js",
+    "runtime-main.js.map": "/week-9-quiz/static/js/runtime-main.3bf16120.js.map",
+    "static/js/2.88e6e445.chunk.js": "/week-9-quiz/static/js/2.88e6e445.chunk.js",
+    "static/js/2.88e6e445.chunk.js.map": "/week-9-quiz/static/js/2.88e6e445.chunk.js.map",
+    "index.html": "/week-9-quiz/index.html",
+    "precache-manifest.290913e1161860754120355c158e78e8.js": "/week-9-quiz/precache-manifest.290913e1161860754120355c158e78e8.js",
+    "service-worker.js": "/week-9-quiz/service-worker.js",
+    "static/css/main.ae5d4301.chunk.css.map": "/week-9-quiz/static/css/main.ae5d4301.chunk.css.map",
+    "static/js/2.88e6e445.chunk.js.LICENSE.txt": "/week-9-quiz/static/js/2.88e6e445.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf16120.js",
+    "static/js/2.88e6e445.chunk.js",
+    "static/css/main.ae5d4301.chunk.css",
+    "static/js/main.0a246796.chunk.js"
+  ]
+}
